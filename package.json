@@ -5,16 +5,17 @@
   "scripts": {
     "start": "cd frontend && npm run start",
     "deploy": "cd contract && npm run deploy",
+    "clean": "rm -rf contract/build && rm -rf frontend/build && rm -rf frontend/.parcel-cache",
     "build": "npm run build:contract && npm run build:web",
     "build:web": "cd frontend && npm run build",
     "build:contract": "cd contract && npm run build",
     "test": "npm run test:unit && npm run test:integration",
     "test:unit": "cd contract && npm test",
-    "test:integration": "npm run build:contract && cd integration-tests && npm test  -- -- \"./contract/build/hello_near.wasm\"",
+    "test:integration": "npm run build:contract s&& cd integration-tests && npm test  -- -- \"./contract/build/hello_near.wasm\"",
     "deps-install": "npm install && cd contract && npm install && cd ../integration-tests && npm install && cd ../frontend && npm install && cd .."
   },
   "devDependencies": {
-    "near-cli": "^3.3.0"
-  },
-  "dependencies": {}
+    "near-cli": "^3.4.1",
+    "rimraf": "^3.0.2"
+  }
 }
