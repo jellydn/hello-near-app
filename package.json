@@ -15,7 +15,7 @@
     "deps-install": "npm install && cd contract && npm install && cd ../integration-tests && npm install && cd ../frontend && npm install && cd .."
   },
   "devDependencies": {
-    "near-cli": "3.4.1",
+    "near-cli": "3.4.2",
     "rimraf": "3.0.2"
   }
 }
