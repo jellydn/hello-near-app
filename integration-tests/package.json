@@ -7,7 +7,7 @@
   },
   "devDependencies": {
     "@types/bn.js": "5.1.1",
-    "@types/node": "18.7.16",
+    "@types/node": "18.11.9",
     "ava": "4.3.3",
     "near-workspaces": "3.2.2",
     "ts-node": "10.9.1",
