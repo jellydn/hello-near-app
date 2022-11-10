@@ -4,6 +4,8 @@ This app was initialized with [create-near-app]
 
 # Quick Start
 
+[![IT Man - Talk #23 - Tech Radar: MillionJs, NEAR JavaScript SDK, Astro v1 [Vietnamese]](https://i.ytimg.com/vi/doit16b1wZQ/hqdefault.jpg)](https://www.youtube.com/watch?v=doit16b1wZQ)
+
 If you haven't installed dependencies during setup:
 
     npm run deps-install
