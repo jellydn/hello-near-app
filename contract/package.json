@@ -13,6 +13,6 @@
     "near-sdk-js": "0.7.0"
   },
   "devDependencies": {
-    "typescript": "4.9.5"
+    "typescript": "5.1.6"
   }
 }
