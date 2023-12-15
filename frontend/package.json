@@ -24,7 +24,7 @@
     "near-api-js": "1.1.0",
     "react": "18.2.0",
     "react-dom": "18.2.0",
-    "regenerator-runtime": "0.14.0"
+    "regenerator-runtime": "0.14.1"
   },
   "resolutions": {
     "@babel/preset-env": "7.23.6"
