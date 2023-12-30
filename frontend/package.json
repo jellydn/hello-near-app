@@ -7,10 +7,10 @@
     "build": "parcel build index.html --public-url ./"
   },
   "devDependencies": {
-    "@babel/core": "7.23.6",
-    "@babel/preset-env": "7.23.6",
+    "@babel/core": "7.23.7",
+    "@babel/preset-env": "7.23.7",
     "@babel/preset-react": "7.23.3",
-    "@types/node": "18.19.3",
+    "@types/node": "18.19.4",
     "ava": "5.3.1",
     "react-test-renderer": "18.2.0",
     "ts-node": "10.9.2",
@@ -27,7 +27,7 @@
     "regenerator-runtime": "0.14.1"
   },
   "resolutions": {
-    "@babel/preset-env": "7.23.6"
+    "@babel/preset-env": "7.23.7"
   },
   "browserslist": {
     "production": [
