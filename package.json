@@ -16,6 +16,6 @@
   },
   "devDependencies": {
     "near-cli": "3.5.0",
-    "rimraf": "3.0.2"
+    "rimraf": "5.0.8"
   }
 }
