@@ -8,9 +8,9 @@
   },
   "devDependencies": {
     "@babel/core": "7.25.2",
-    "@babel/preset-env": "7.25.3",
+    "@babel/preset-env": "7.25.4",
     "@babel/preset-react": "7.24.7",
-    "@types/node": "18.19.44",
+    "@types/node": "18.19.47",
     "ava": "5.3.1",
     "react-test-renderer": "18.3.1",
     "ts-node": "10.9.2",
@@ -27,7 +27,7 @@
     "regenerator-runtime": "0.14.1"
   },
   "resolutions": {
-    "@babel/preset-env": "7.25.3"
+    "@babel/preset-env": "7.25.4"
   },
   "browserslist": {
     "production": [
