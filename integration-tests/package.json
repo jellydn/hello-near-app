@@ -6,12 +6,12 @@
     "test": "ava"
   },
   "devDependencies": {
-    "@types/bn.js": "5.1.5",
+    "@types/bn.js": "5.1.6",
     "@types/node": "18.19.50",
     "ava": "5.3.1",
     "near-workspaces": "3.5.0",
     "ts-node": "10.9.2",
-    "typescript": "5.5.4"
+    "typescript": "5.6.2"
   },
   "dependencies": {}
 }
