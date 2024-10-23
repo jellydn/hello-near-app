@@ -10,7 +10,7 @@
     "@babel/core": "7.25.9",
     "@babel/preset-env": "7.25.9",
     "@babel/preset-react": "7.25.9",
-    "@types/node": "18.19.58",
+    "@types/node": "18.19.59",
     "ava": "5.3.1",
     "react-test-renderer": "18.3.1",
     "ts-node": "10.9.2",
