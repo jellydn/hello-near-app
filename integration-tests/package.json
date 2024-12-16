@@ -9,7 +9,7 @@
     "@types/bn.js": "5.1.6",
     "@types/node": "18.19.64",
     "ava": "5.3.1",
-    "near-workspaces": "3.5.0",
+    "near-workspaces": "4.0.0",
     "ts-node": "10.9.2",
     "typescript": "5.6.3"
   },
